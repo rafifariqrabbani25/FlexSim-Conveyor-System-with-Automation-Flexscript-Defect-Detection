@@ -1,6 +1,6 @@
 A discrete-event simulation model built in FlexSim that simulates a manufacturing conveyor line with automated item classification, defect detection, and multi-destination routing.
 
-https://user-images.githubusercontent.com/xxx/video.mp4
+https://github.com/rafifariqrabbani25/FlexSim-Conveyor-System-with-Automation-Flexscript-Defect-Detection/raw/main/Flexim%20Model.mp4
 
 ## 1. How It Works
 - Item Generation (Source1): creates items at a defined interarrival time
